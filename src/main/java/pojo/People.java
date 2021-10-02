@@ -22,6 +22,7 @@ public class People {
         System.out.println("步骤一");
         System.out.println("步骤二");
         System.out.println("步骤三");
+        System.out.println("hot-fix 操作");
     }
 
 
