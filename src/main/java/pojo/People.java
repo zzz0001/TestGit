@@ -23,6 +23,9 @@ public class People {
         System.out.println("步骤二");
         System.out.println("步骤三");
         System.out.println("master 操作");
+        System.out.println("hot-fix 操作");
+        System.out.println("hot-fix 操作2");
+
     }
 
 
