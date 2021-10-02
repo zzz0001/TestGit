@@ -26,7 +26,7 @@ public class People {
         System.out.println("master 操作2");
         System.out.println("hot-fix 操作");
         System.out.println("hot-fix 操作2");
-
+        System.out.println("远程库已经更新了代码");
     }
 
 
